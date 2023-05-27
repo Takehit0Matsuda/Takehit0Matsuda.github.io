@@ -1,4 +1,5 @@
 # sample-html-css
 
 This code is used for the programming workshop week 2 to make static website
-http://Takehit0Matsuda.github.io
+
+<a>http://Takehit0Matsuda.github.io<a>
